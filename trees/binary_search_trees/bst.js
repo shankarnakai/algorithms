@@ -24,7 +24,7 @@ class BinarySearchTree
             this.root = new Node(num);
         }
 
-        // TODO: Implement rest of BST.
+        // TODO: Implement rest of insertion.
     }
 
     toList() {}
